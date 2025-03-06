@@ -1,0 +1,30 @@
+1,Java Programing,Ibrahim Shahin,Java,2025,123-0432
+2,How to Python,Nizar,Python,2023,111-0000
+3,Algorithm Analizing,Ahmed,Algorithm,2000,111-0001
+4,Learn Python in 1 week,Nizar,Python,2022,112-0002
+5,Basic Assembly,Ibrahim Shahin,Assembly,2020,123-0430
+6,Network Security,Murad,Security,2018,111-0002
+7,Ruby language,Khalid,Ruby,2023,111-0003
+8,Php for beginers,Mohammad,Php,2014,110-0000
+9,HTML Advanced ,Jamal,HTML,2021,111-0004
+10,Advance Assembly,Ibrahim Shahin,Assembly,2024,123-0431
+11,Password Encryption,Ahmed,Security,2022,111-0005
+12,The art of Frontend,Khalid,Frontend,2017,111-0006
+13,Css from 0 to 100,Jawad,Css,2016,100-0000
+14,Linux OS,Mohammad,Linux,2019,110-0001
+15,Programing ethics,Saeed,ethics,2003,000-0102
+16,Arabic calligraphy,Anas,Arabic,1978,000-0013
+17,Calculus 1,Hosam,Math,2005,004-1231
+18,Calculus 2,Hosam,Math,2007,006-5534
+19,Arabic pronunciation,Anas,Arabic,1990,005-8492
+20,Network analysis,Ibrahim Shahin,Network,2022,123-044
+21,Animals world,Saleh,Biology,2015,193-2289
+22,Mechanical physics,Tariq,Physics,2011,831-4839
+23,Quantum physics,Tareq,Physics,2016,920-5912
+24,Business administration,Shareef,Business,2007,932-5291
+25,Business management,Shareef,Business,2010,920-2932
+26,Quran recitation,Hamada,Quran,1950,283-2431
+27,Interpretation of the Quran,Hamada,Quran,1957,592-14145
+28,Quantum computing,Ibrahim Shahin,Quantum computing,2025,281-4152
+29,Architecture engineering,Kareem,Architecture,2000,423-4198
+30,Animal world,Maher,Biology,2013,523-3142
